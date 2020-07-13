@@ -42,8 +42,6 @@ a{
     flex-direction: column;
     text-align: center;
     width: 350px;
-    
-}
-input{
-    width: 350px;
+    margin: 2rem;
+    padding: 2rem;
 }
